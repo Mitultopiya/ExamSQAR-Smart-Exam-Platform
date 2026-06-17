@@ -123,7 +123,3 @@ This project was developed as a **Final Year Project** to:
 **Sastik Kumar Das**
 
 ---
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
