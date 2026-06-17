@@ -117,9 +117,3 @@ This project was developed as a **Final Year Project** to:
 > This project represents a complete MERN stack system demonstrating real-world application development and scalable architecture.
 
 ---
-
-## 🙌 Author
-
-**Sastik Kumar Das**
-
----
